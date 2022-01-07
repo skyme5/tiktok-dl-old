@@ -1,0 +1,4 @@
+requests==2.22.0
+loguru==0.2.5
+setuptools==41.4.0
+jsonschema==3.1.1
